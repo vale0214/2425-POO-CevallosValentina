@@ -1,6 +1,5 @@
 # Programa para calcular el área de un círculo y un cuadrado
 # Este programa solicita al usuario los datos necesarios para calcular las áreas de un círculo y un cuadrado.
-# Utiliza diferentes tipos de datos como integer, float, string y boolean, y está organizado.
 
 import math
 
