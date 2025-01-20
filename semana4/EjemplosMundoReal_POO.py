@@ -1,3 +1,4 @@
+# Tienda de Ropa en Linea MVM
 # Class Producto
 class Producto:
     def __init__(self, id_producto, nombre, precio, stock):

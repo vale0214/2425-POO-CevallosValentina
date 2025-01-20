@@ -1,3 +1,4 @@
+#Clase herencia objetos encapsulamiento y polimorfismo
 # Clase base: Mascota
 class Mascota:
     def __init__(self, nombre, edad):
